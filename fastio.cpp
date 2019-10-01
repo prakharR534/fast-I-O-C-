@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-
+         //add these lines for fast input
+	//by default sychronization is true
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 
